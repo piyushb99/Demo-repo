@@ -1,4 +1,4 @@
 # Demo-repo
 This is my first git repo.
 <br>
-Author - Piyush Belkhede
+Author - Piyush K Belkhede
